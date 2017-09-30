@@ -1,0 +1,23 @@
+{
+  "name": "threejs-linkedin-course",
+  "version": "1.0.0",
+  "description": "Linkedin Course on Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagomms/threeJS-linkedin-course.git"
+  },
+  "keywords": [
+    "Three.js",
+    "Frontend-Development"
+  ],
+  "author": "Tiago Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagomms/threeJS-linkedin-course/issues"
+  },
+  "homepage": "https://github.com/tiagomms/threeJS-linkedin-course#readme"
+}
